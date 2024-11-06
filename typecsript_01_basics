@@ -1,0 +1,15 @@
+function addTWO(num:number):number{
+     return 2+num;
+}
+
+function getUpper(val:string):string{
+    return val.toUpperCase();
+}
+
+function signup(name:string,email:string,ispaid:boolean){
+
+}
+
+signup("heh","sdkhjc",true);
+
+console.log(addTWO(2));
